@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899876133228",
+    "project_id": "wuzzufy-app",
+    "storage_bucket": "wuzzufy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899876133228:android:bfe8c9bcfead5aed0f7b49",
+        "android_client_info": {
+          "package_name": "com.alalfy.wuzzufy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899876133228-edu87199tqbc4ellvnf6kisnp10u0vm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alalfy.wuzzufy",
+            "certificate_hash": "77771a1c44fe402180b844ee36c871e75871dc2d"
+          }
+        },
+        {
+          "client_id": "899876133228-31g6edkmbtqoqqqklouj57ard700t37r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_A2Kt6eplwzeDXMBZG8cBGmx7rNG02A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899876133228-31g6edkmbtqoqqqklouj57ard700t37r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
